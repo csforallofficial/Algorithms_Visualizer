@@ -1,0 +1,106 @@
+@font-face {
+    font-family: Anurati;
+    src: url(../assets/Anurati-Regular.otf);
+}
+:root{
+    --home-color: #2ED327;
+}
+.algo-name {
+    font-size: 18px;
+    font-weight: 700;
+    color:white;
+}
+.card{
+    background-color: transparent;
+}
+.card::after{
+    content: "";
+    bottom: 0;
+    top: 0;
+  left: 0;
+  position: absolute;
+  height: 50%;
+  width: 5px;
+  color: #fff;
+}
+.algo-image{
+    height: 175px;
+    width: auto;
+    object-fit:cover;
+    fill: var(--home-color);
+    background-color: transparent;
+}
+.back{
+    background-color: #0E0E0E;
+    min-height: 100vh;
+}
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    background-image: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    z-index: 0;
+    top:0;
+    left:0;
+  }
+
+.logo{
+    /* left: 50%;                         
+    transform: translate( -50%,0); */
+    position: relative;
+    z-index: 100;
+    float:top;
+}
+.links li{
+    cursor: pointer;
+    margin: 10px;
+    fill: var(--home-color)!important;
+    margin-top: 25px;
+    /* display: inline; */
+}
+.links li svg{
+    height: 20px;
+    width: auto;
+}
+.links{
+    position: sticky;
+    z-index: 100;
+    display: flex;
+    list-style: none;
+    vertical-align: top;
+    float: left;
+    cursor: pointer;
+    /* position: absolute; */
+    /* display: flex;
+   flex-direction: row; */
+   /* Below sets up your display method: flex-start|flex-end|space-between|space-around */
+   justify-content: flex-start; 
+   /* Below removes bullets and cleans white-space */
+   list-style: none;
+   padding: 0;
+   /* Bonus: forces no word-wrap */
+   white-space: nowrap;
+}
+.main-title{
+    font-size: 3rem;
+    color: white;
+    padding-top: 18vh;
+    font-family: Anurati, sans-serif;
+    letter-spacing: 5px;
+}
+
+.main-title svg{
+    fill: var(--home-color);
+    margin-bottom: 30px;
+    height: 80px;
+    width: auto;
+}
+.description-title{
+    color: white;
+    width: 50%;
+    margin: auto;
+}

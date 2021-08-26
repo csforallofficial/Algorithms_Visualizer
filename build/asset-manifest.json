@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a017900.chunk.css",
+    "main.js": "/static/js/main.70207dd2.chunk.js",
+    "main.js.map": "/static/js/main.70207dd2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11245110.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11245110.js.map",
+    "static/js/2.15ee5b74.chunk.js": "/static/js/2.15ee5b74.chunk.js",
+    "static/js/2.15ee5b74.chunk.js.map": "/static/js/2.15ee5b74.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.62de50e62995f83278a6e069c0db794a.js": "/precache-manifest.62de50e62995f83278a6e069c0db794a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5a017900.chunk.css.map": "/static/css/main.5a017900.chunk.css.map",
+    "static/js/2.15ee5b74.chunk.js.LICENSE.txt": "/static/js/2.15ee5b74.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/Anurati-Regular.ca8632f4.otf",
+    "static/media/analytics.bf570edf.svg": "/static/media/analytics.bf570edf.svg",
+    "static/media/bar-chart.svg": "/static/media/bar-chart.4c836d2b.svg",
+    "static/media/convex.svg": "/static/media/convex.88bbe4ee.svg",
+    "static/media/convex_instruct.gif": "/static/media/convex_instruct.cfd6557e.gif",
+    "static/media/github.67910a24.svg": "/static/media/github.67910a24.svg",
+    "static/media/graph.svg": "/static/media/graph.bd3c0250.svg",
+    "static/media/heading_logo.png": "/static/media/heading_logo.eb2a6397.png",
+    "static/media/linkedin.afc106ad.svg": "/static/media/linkedin.afc106ad.svg",
+    "static/media/pathfinder.gif": "/static/media/pathfinder.67aa2ccb.gif",
+    "static/media/pathfinding_front.svg": "/static/media/pathfinding_front.82c79bd8.svg",
+    "static/media/Pathfinding.css": "/static/media/space-ship.4db25bca.svg",
+    "static/media/sorting.png": "/static/media/sorting.24f61809.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11245110.js",
+    "static/js/2.15ee5b74.chunk.js",
+    "static/css/main.5a017900.chunk.css",
+    "static/js/main.70207dd2.chunk.js"
+  ]
+}
